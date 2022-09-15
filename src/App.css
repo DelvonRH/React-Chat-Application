@@ -1,0 +1,59 @@
+body{
+  background: linear-gradient(90deg, #434343 50%,  #000 100%);
+}
+
+#google{
+  background-color: #de5246;
+  border: #de5246;
+}
+.card-header{
+  background-color: rgb(51, 51, 51);
+  color: white;
+}
+
+.card-footer
+{
+  background-color: rgb(51, 51, 51);
+  color: white;
+}
+
+.card-body
+{
+  background-color: rgb(51, 51, 51);
+  color: white
+}
+
+.fab{
+  color: white;
+}
+
+input{
+  color: black;
+}
+
+#google:hover
+{
+  background-color: #b9453a;
+  border: #b9453a;
+}
+
+#signin-signup{
+  background-color: #04bd04;
+  border: #04bd04;
+}
+
+#signin-signup:hover{
+  background-color: #228B22;
+  border: #228B22;
+}
+
+#facebook{
+ background-color: #32527b; 
+ border: #32527b;
+}
+
+#facebook:hover
+{
+  background-color: #083167;
+  border: #083167;
+}
